@@ -1,4 +1,4 @@
-# InterviewPrep
+# Interview Prep
 
 ## What is this repo?
 This repo contains my solutions to the Hacker Rank Interview preparation kit.  
