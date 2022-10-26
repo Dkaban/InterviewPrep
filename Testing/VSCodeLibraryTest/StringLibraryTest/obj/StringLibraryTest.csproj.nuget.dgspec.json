@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibraryTest/StringLibraryTest.csproj": {}
+  },
+  "projects": {
+    "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/StringLibrary.csproj",
+        "packagesPath": "/Users/dustin/.nuget/packages/",
+        "outputPath": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dustin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibraryTest/StringLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibraryTest/StringLibraryTest.csproj",
+        "projectName": "StringLibraryTest",
+        "projectPath": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibraryTest/StringLibraryTest.csproj",
+        "packagesPath": "/Users/dustin/.nuget/packages/",
+        "outputPath": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibraryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dustin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/StringLibrary.csproj": {
+                "projectPath": "/Users/dustin/Desktop/Personal/InterviewPrep/InterviewPrep/Testing/VSCodeLibraryTest/StringLibrary/StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
