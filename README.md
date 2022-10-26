@@ -4,4 +4,6 @@
 This repo contains my solutions to the Hacker Rank Interview preparation kit.  
 The Kit: https://www.hackerrank.com/interview/interview-preparation-kit   
   
-My Profile: https://www.hackerrank.com/dustinkaban
+My Profile: https://www.hackerrank.com/dustinkaban. 
+  
+This repo also contains some simplified examples of Design Patterns
