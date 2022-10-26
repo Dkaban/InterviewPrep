@@ -1,10 +1,10 @@
-namespace Wrappers.Facade
+namespace DesignPatterns.FacadePattern
 {
     public class WelcomeToBank
     {
         public WelcomeToBank()
         {
-            Debug.Log("Welcome to ABC Bank");
+            Console.WriteLine("Welcome to ABC Bank");
         }
     }
 }

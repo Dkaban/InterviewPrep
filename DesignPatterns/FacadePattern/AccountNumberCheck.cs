@@ -1,4 +1,4 @@
-namespace Wrappers.Facade
+namespace DesignPatterns.FacadePattern
 {
     public class AccountNumberCheck
     {
